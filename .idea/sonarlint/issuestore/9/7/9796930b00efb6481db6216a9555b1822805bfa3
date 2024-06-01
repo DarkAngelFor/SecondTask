@@ -1,17 +1,0 @@
-
-v
-java:S1118	":Add a private constructor to hide the implicit public one.(×¼­ÆJ$7d416573-030b-4ff8-8b6c-f81623db17b2
-€
-java:S1124
-"EReorder the modifiers to comply with the Java Language Specification.(²«ÓtJ$92a2266e-6cc7-4433-a75c-12de4a2f23d5
-†
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¥ÆÒõýÿÿÿÿJ$2f62d66a-bd43-4bda-88f1-43dd43de8af6
-†
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(óœ£ñþÿÿÿÿJ$d2d4dfdb-b826-4f98-ae1e-d4be47934100
-r
-java:S6437"6Revoke and change this password, as it is compromised.(†±àÜJ$a53db1f7-933c-4391-9357-5ef9fa6ae6de
-f	java:S106"+Replace this use of System.out by a logger.(ÕÄÚöJ$34f11466-2b13-4155-b9e7-e225b9b076c0
-m
-java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿJ$28711491-01f5-44f8-8d51-df5fd1bd2ed3
-m
-java:S1128"1Remove this unused import 'java.util.Properties'.(¬µŽ²J$a8a6af21-4ab9-4a94-861b-204a9584d44a
